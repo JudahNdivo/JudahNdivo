@@ -6,9 +6,9 @@
 
 A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
 
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
-- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
-- ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
+- 🔭 **Current Focus:** AfyaBora — an SMS-based RAG health assistant for STI health education built for Kenyan users 
+- 🌱 **Learning & Exploration:** Spring Boot · Angular · ESG data pipelines
+- ⚡ **Core Interests:** Fintech · AI/ML · Data Science
 
 ---
 
