@@ -6,7 +6,7 @@
 
 I'm a final-year Computer Science student at Strathmore University, Nairobi, passionate about building technology at the intersection of AI, fintech and social impact.
 
-- 🔭 **Current Focus:** AfyaBora — an SMS-based RAG health assistant for STI health education built for Kenyan users 
+- 🔭 **Current Focus:** AfyaBora — a RAG health assistant Chatbot for STI health education built for Kenyan users 
 - 🌱 **Learning & Exploration:** Spring Boot · Angular · ESG data pipelines
 - ⚡ **Core Interests:** Fintech · AI/ML · Data Science
 
