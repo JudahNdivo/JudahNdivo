@@ -52,7 +52,7 @@ I'm a final-year Computer Science student at Strathmore University, Nairobi, pas
 
 ---
 
-## GitHub Stats
+<!-- ## GitHub Stats>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JudahNdivo&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
